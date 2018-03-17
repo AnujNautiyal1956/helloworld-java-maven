@@ -39,13 +39,6 @@
         <name>internal-release1</name>
         <url>http://13.127.37.251:8081/nexus/content/repositories/MikeAlpha/</url>
     </repository>
-	
-	
-	<snapshotrepository>
-        <id>deployment</id>
-        <name>internal-releases</name>
-        <url>http://13.127.37.251:8081/nexus/content/repositories/Mikealphasnap/</url>
-    </repository>
 	</distributionManagement>
 
 
