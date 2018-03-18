@@ -37,7 +37,7 @@
     <repository>
         <id>deployment</id>
         <name>internal-release1</name>
-        <url>http://13.126.45.234:8081/nexus/content/repositories/MikeAlpha/</url>
+        <url>http://13.126.244.86:8081/nexus/content/repositories/MikeAlpha/</url>
     </repository>
 	</distributionManagement>
 
